@@ -1,0 +1,9 @@
+ping-rat - generates a packet with a generalized Bloom filter as an IP option
+
+See INSTALL for building instructions, COPYING for
+the license.
+
+See "user-manual.pdf" for details.
+
+-- Gustavo L. Coutinho <gustavo@gta.ufrj.br>
+December 13th, 2005
