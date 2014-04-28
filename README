@@ -1,5 +1,7 @@
 ping-rat - generates a packet with a generalized Bloom filter as an IP option
 
+For more information, please visit: http://www.gta.ufrj.br/rat/rat_system.html
+
 See INSTALL for building instructions, COPYING for
 the license.
 
